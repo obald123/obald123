@@ -32,7 +32,7 @@ I'm  a software engineer who loves building creative and useful web applications
 
 Feel free to reach out to me through any of the following channels:
 
-- ✉️ **Email:** [your.email@example.com](mailto:simugomwaobald250@gmail.com)
+- ✉️ **Email:** [simugomwaobald250@gmail.com](mailto:simugomwaobald250@gmail.com)
 
 ---
 
