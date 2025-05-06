@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Obald!
 
-<!--
-**obald123/obald123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 A passionate Full-Stack Developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+I'm  a software engineer who loves building creative and useful web applications that solve real problems. Always eager to learn new technologies and improve my craft.
+
+---
+
+### 🛠️ Skills & Technologies
+
+- 💻 **Languages:** JavaScript, TypeScript, Python, HTML5, CSS3
+- ⚛️ **Frontend:** React, Next.js, Tailwind CSS
+- 🛠️ **Backend:** Node.js, Express.js, REST APIs
+- 🗄️ **Databases:** MongoDB, PostgreSQL
+- 🚀 **DevOps & Tools:** Git, GitHub, Docker, Vercel, Heroku, CI/CD
+- 🧪 **Testing:** Jest, React Testing Library
+
+---
+
+### 🔭 Current Focus
+- Building scalable full-stack applications with Next.js & Node.js
+- Contributing to open source projects
+
+
+---
+
+### 📫 Contact Information
+
+Feel free to reach out to me through any of the following channels:
+
+- ✉️ **Email:** [your.email@example.com](mailto:simugomwaobald250@gmail.com)
+
+---
+
+### :bar_chart: GitHub Insights
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=obald123&show_icons=true&theme=tokyonight" alt="Montfort's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=obald123&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obald123&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+---
+
+
+
