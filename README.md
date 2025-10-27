@@ -6,13 +6,13 @@
 ---
 
 ### About Me
-I'm  a software engineer who loves building creative and useful web applications that solve real problems. Always eager to learn new technologies and improve my craft.
+I'm  a software engineer who loves building creative and useful web and mobile applications that solve real problems. Always eager to learn new technologies and improve my craft.
 
 ---
 
 ### 🛠️ Skills & Technologies
 
-- 💻 **Languages:** JavaScript, TypeScript, Python, HTML5, CSS3
+- 💻 **Languages:** JavaScript, TypeScript, Python, HTML5, CSS3,Dart
 - ⚛️ **Frontend:** React, Next.js, Tailwind CSS
 - 🛠️ **Backend:** Node.js, Express.js, REST APIs
 - 🗄️ **Databases:** MongoDB, PostgreSQL
@@ -22,7 +22,7 @@ I'm  a software engineer who loves building creative and useful web applications
 ---
 
 ### 🔭 Current Focus
-- Building scalable full-stack applications with Next.js & Node.js
+- Building scalable full-stack applications with  Node.js and flutter
 - Contributing to open source projects
 
 
