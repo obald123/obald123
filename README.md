@@ -38,7 +38,6 @@ Feel free to reach out to me through any of the following channels:
 
 ### :bar_chart: GitHub Insights
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=obald123&show_icons=true&theme=tokyonight" alt="Montfort's GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=obald123&theme=tokyonight" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obald123&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
