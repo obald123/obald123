@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Obald!
+#  Hi, I'm Obald!
 
-### 🚀 A passionate Full-Stack Developer
+###  A passionate Full-Stack Developer
 
 
 ---
@@ -12,28 +12,28 @@ I'm  a software engineer who loves building creative and useful web and mobile a
 
 ### 🛠️ Skills & Technologies
 
-- 💻 **Languages:** JavaScript, TypeScript, Python, HTML5, CSS3,Dart
-- ⚛️ **Frontend:** React, Next.js, Tailwind CSS
-- 🛠️ **Backend:** Node.js, Express.js, REST APIs
-- 🗄️ **Databases:** MongoDB, PostgreSQL
-- 🚀 **DevOps & Tools:** Git, GitHub, Docker, Vercel, Heroku, CI/CD
-- 🧪 **Testing:** Jest, React Testing Library
+-  **Languages:** JavaScript, TypeScript, Python, HTML5, CSS3,Dart
+-  **Frontend:** React, Next.js, Tailwind CSS
+-  **Backend:** Node.js, Express.js, REST APIs
+-  **Databases:** MongoDB, PostgreSQL
+-  **DevOps & Tools:** Git, GitHub, Docker, Vercel, Heroku, CI/CD
+-  **Testing:** Jest, React Testing Library
 
 ---
 
-### 🔭 Current Focus
+### Current Focus
 - Building scalable full-stack applications with  Node.js and flutter
 - Contributing to open source projects
 
 
 ---
 
-### 📫 Contact Information
+###  Contact Information
 
 Feel free to reach out to me through any of the following channels:
 
-- ✉️ **Email:** [simugomwaobald250@gmail.com](mailto:simugomwaobald250@gmail.com)
-
+-  **Email:** [simugomwaobald250@gmail.com](mailto:simugomwaobald250@gmail.com)
+-  **Linkedin:** https://www.linkedin.com/in/simugomwa-obald-4a4402216/ 
 ---
 
 ### :bar_chart: GitHub Insights
