@@ -16,8 +16,8 @@ I'm  a software engineer who loves building creative and useful web and mobile a
 -  **Frontend:** React, Next.js, Tailwind CSS
 -  **Backend:** Node.js, Express.js, REST APIs
 -  **Databases:** MongoDB, PostgreSQL
--  **DevOps & Tools:** Git, GitHub, Docker, Vercel, Heroku, CI/CD
--  **Testing:** Jest, React Testing Library
+-  **DevOps & Tools:** Git, GitHub, Docker, CI/CD
+
 
 ---
 
