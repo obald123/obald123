@@ -48,20 +48,6 @@ Feel free to reach out to me through any of the following channels:
 
 
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=obald123&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=obald123&color=blueviolet)
-
-
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
