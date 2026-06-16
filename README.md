@@ -48,17 +48,21 @@ Feel free to reach out to me through any of the following channels:
 
 
 
-## 📊 GitHub Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=obald123&show_icons=true&theme=github_dark&cache_seconds=1800" />
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=obald123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+## 📊 GitHub Profile Summary
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obald123&layout=compact&theme=tokyonight"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=obald123&theme=github_dark)
 
-</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=obald123&theme=github_dark)
 
-## 💻 Tech Stack
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=obald123&theme=github_dark)
+
+
+
+
+##  Tech Stack
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
